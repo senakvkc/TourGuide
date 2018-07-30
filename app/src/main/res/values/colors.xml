@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#4d648d</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color"> #283655</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#1e1f26</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_restaurants">#53599A</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_mustSee"> #d0e1f9</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_historical">#6D9DC5</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_topHotels">#536878</color>
+</resources>

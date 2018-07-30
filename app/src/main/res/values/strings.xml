@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_mustSee">Must See</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_historical">Historical</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_topHotels">Top Hotels</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="restaurants_maidens">Maiden\'s Tower</string>
+
+    <string name="restaurants_nar">Nar Restaurant</string>
+
+    <string name="restaurants_ulus">Ulus29</string>
+
+    <string name="restaurants_lamouette">La Mouette</string>
+
+    <string name="restaurants_rumeliskele">Rumeli Hisari Iskele</string>
+
+    <string name="info_restaurant_maidens">Maiden’s Tower stands proudly in the intersection of the Bosphorus where the two continents of Asia and Europe meet.</string>
+
+    <string name="info_restaurant_nar">NAR Restaurant offers a menu of dishes representing traditional and historical Turkish cuisine, ranging from palace dishes to regional specialities.</string>
+
+    <string name="info_restaurant_ulus">With its breath-taking view of the Bosporus and extensive menu combining Turkish cuisine with new international food trends; 29 serves under Restaurant and Club concepts.</string>
+
+    <string name="info_restaurant_lamouette">This restaurant is located on the terrace of Beyoğlu\'s Tomtom Suites hotel. It has a superb view of the old city.</string>
+
+    <string name="info_restaurant_rumeliskele">Located right on the Bosphorus in an Ottoman-era boat dock in the shadows of a medieval fortress, Iskele\'s atmosphere is as inspiring as the food is reliably delicious.</string>
+
+    <string name="mustsee_arcmus">Istanbul Archeology Museum</string>
+
+    <string name="mustsee_galata">Galata Tower</string>
+
+    <string name="mustsee_grandbazaar">Grand Bazaar</string>
+
+    <string name="mustsee_toy">Istanbul Toy Museum</string>
+
+    <string name="mustsee_sabanci">Sabanci Museum</string>
+
+    <string name="info_mustsee_arcmus">Istanbul Archaeology Museums consist of three museums. Those are Archaeology Museum, Old Eastern Works Museum and Enameled Kiosk Museum.</string>
+
+    <string name="info_mustsee_galata"> One of the city\'s most striking landmarks, it is a high, cone-capped cylinder that dominates the skyline and offers a panoramic vista of Istanbul\'s historic peninsula and its environs.</string>
+
+    <string name="info_mustsee_grandbazaar">Thee Grand Bazaar in Istanbul is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops which attract between 250,000 and 400,000 visitors daily.</string>
+
+    <string name="info_mustsee_toy">Istanbul Toy Museum was established with toys- that were purchased from collectors, auctions and antique shops for over 40 countries in 20 years by Sunay Akin</string>
+
+    <string name="info_mustsee_sabanci">Sabancı University\'s Sakıp Sabancı Museum is located in Emirgan, at one of Istanbul\'s oldest settlements on the Bosphorus.</string>
+
+    <string name="historical_ayasofya">Hagia Sofia</string>
+
+    <string name="historical_bluemos">Blue Mosque</string>
+
+    <string name="historical_yerebatan">Basilica Cistern</string>
+
+    <string name="historical_topkapi">Topkapı Palace</string>
+
+    <string name="historical_gulhane">Gülhane Park</string>
+
+    <string name="info_historical_ayasofya">It was used as a church for 916 years but, following the conquest of Istanbul by Fatih Sultan Mehmed, the Hagia Sophia was converted into mosque. </string>
+
+    <string name="info_historical_bluemos">The Blue Mosque (Called Sultanahmet Camii in Turkish) is an historical mosque in Istanbul. The mosque is known as the Blue Mosque because of blue tiles surrounding the walls of interior design.</string>
+
+    <string name="info_historical_yerebatan">One of the magnificent ancient buildings of İstanbul is the Basilica Cistern located in the southwest of Hagia Sofia. Constructed for Justinianus I, the Byzantium Emperor (527–565), this big underground water reservoir is called as “Yerebatan Cistern” among the public because of the underground marble columns.</string>
+
+    <string name="info_historical_topkapi">Palace served as the home of the Ottoman sultans and their court until the middle of the 19th century.</string>
+
+    <string name="info_historical_gulhane">Gülhane Park (meaning “House of Roses Park” in Turkish) is the oldest urban park of Istanbul and it is also one of the largest parks of İstanbul.Gülhane Park is the oldest urban park of Istanbul and it is also one of the largest parks of İstanbul.</string>
+
+    <string name="tophotels_ciragan">Ciragan Palace Kempinski</string>
+
+    <string name="tophotels_hilton">Hilton Istanbul Bosphorus</string>
+
+    <string name="tophotels_swiss">Swissotel The Bosphorus</string>
+
+    <string name="tophotels_fourseasons">Istanbul Four Seasons Hotel</string>
+
+    <string name="tophotels_raffles">Hotel Raffles Istanbul</string>
+
+    <string name="info_tophotels_ciragan">Welcome to the only Ottoman Imperial Palace and Hotel on the Bosphorus. Çırağan Palace Kempinski offers a resort ambience in the city and reflects the ultimate luxury of a genuine Ottoman Palace.</string>
+
+    <string name="info_tophotels_hilton">Nestled in the heart of Istanbul, amidst picturesque gardens, you’ll find Hilton Istanbul Bosphorus, an iconic hotel with a storied past spanning 6 decades. </string>
+
+    <string name="info_tophotels_swiss">Swissotel The Bosphorus, Istanbul provides you with an exclusive new lifestyle experience thanks to Swissotel Living: 63 elegant suites in a variety of sizes, from studio to one to three-bedroom, offer the ultimate in style and luxury.</string>
+
+    <string name="info_tophotels_fourseasons">Swissotel The Bosphorus, Istanbul provides you with an exclusive new lifestyle experience thanks to Swissotel Living: 63 elegant suites in a variety of sizes, from studio to one to three-bedroom, offer the ultimate in style and luxury.</string>
+
+    <string name="info_tophotels_raffles">Swissotel The Bosphorus, Istanbul provides you with an exclusive new lifestyle experience thanks to Swissotel Living: 63 elegant suites in a variety of sizes, from studio to one to three-bedroom, offer the ultimate in style and luxury.</string>
+
+</resources>
